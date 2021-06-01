@@ -3,3 +3,10 @@
 ################################################################################
 
 /MongoDBHelper/obj
+/MyMongoDBDemo/obj
+/MyMongoDBDemo/MyMongoDBDemo.csproj
+/MyMongoDBDemo/.vs/MyMongoDBDemo/v16
+/MyMongoDBDemo/Program.cs
+/MyMongoDBDemo/bin/Debug/net5.0
+/.vs/MyMongoDBDemo/v16
+/MongoDBHelper/bin/Debug/net5.0

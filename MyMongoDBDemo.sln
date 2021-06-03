@@ -3,14 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMongoDBDemo", "MyMongoDBDemo\MyMongoDBDemo.csproj", "{FA47741C-E6D6-47DA-B40C-8456F06583CC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBHelper", "MongoDBHelper\MongoDBHelper.csproj", "{B745FA41-DBCD-408E-8CE3-6A4D9EF33A13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoDBHelper", "MongoDBHelper\MongoDBHelper.csproj", "{B745FA41-DBCD-408E-8CE3-6A4D9EF33A13}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F2E5B505-38EC-4428-94F2-1207AFCCA296}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMongoDBDemo", "MyMongoDBDemo\MyMongoDBDemo.csproj", "{35D7DB47-6FC3-43F0-94FD-6C214C567F10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,14 +18,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FA47741C-E6D6-47DA-B40C-8456F06583CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FA47741C-E6D6-47DA-B40C-8456F06583CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FA47741C-E6D6-47DA-B40C-8456F06583CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FA47741C-E6D6-47DA-B40C-8456F06583CC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B745FA41-DBCD-408E-8CE3-6A4D9EF33A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B745FA41-DBCD-408E-8CE3-6A4D9EF33A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B745FA41-DBCD-408E-8CE3-6A4D9EF33A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B745FA41-DBCD-408E-8CE3-6A4D9EF33A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D7DB47-6FC3-43F0-94FD-6C214C567F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D7DB47-6FC3-43F0-94FD-6C214C567F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D7DB47-6FC3-43F0-94FD-6C214C567F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D7DB47-6FC3-43F0-94FD-6C214C567F10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
